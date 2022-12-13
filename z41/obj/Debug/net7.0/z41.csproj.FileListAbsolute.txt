@@ -1,0 +1,15 @@
+/Users/evgenijbelov/Documents/GB/C#2/dz/1312/z41/obj/Debug/net7.0/z41.csproj.AssemblyReference.cache
+/Users/evgenijbelov/Documents/GB/C#2/dz/1312/z41/obj/Debug/net7.0/z41.GeneratedMSBuildEditorConfig.editorconfig
+/Users/evgenijbelov/Documents/GB/C#2/dz/1312/z41/obj/Debug/net7.0/z41.AssemblyInfoInputs.cache
+/Users/evgenijbelov/Documents/GB/C#2/dz/1312/z41/obj/Debug/net7.0/z41.AssemblyInfo.cs
+/Users/evgenijbelov/Documents/GB/C#2/dz/1312/z41/obj/Debug/net7.0/z41.csproj.CoreCompileInputs.cache
+/Users/evgenijbelov/Documents/GB/C#2/dz/1312/z41/bin/Debug/net7.0/z41
+/Users/evgenijbelov/Documents/GB/C#2/dz/1312/z41/bin/Debug/net7.0/z41.deps.json
+/Users/evgenijbelov/Documents/GB/C#2/dz/1312/z41/bin/Debug/net7.0/z41.runtimeconfig.json
+/Users/evgenijbelov/Documents/GB/C#2/dz/1312/z41/bin/Debug/net7.0/z41.dll
+/Users/evgenijbelov/Documents/GB/C#2/dz/1312/z41/bin/Debug/net7.0/z41.pdb
+/Users/evgenijbelov/Documents/GB/C#2/dz/1312/z41/obj/Debug/net7.0/z41.dll
+/Users/evgenijbelov/Documents/GB/C#2/dz/1312/z41/obj/Debug/net7.0/refint/z41.dll
+/Users/evgenijbelov/Documents/GB/C#2/dz/1312/z41/obj/Debug/net7.0/z41.pdb
+/Users/evgenijbelov/Documents/GB/C#2/dz/1312/z41/obj/Debug/net7.0/z41.genruntimeconfig.cache
+/Users/evgenijbelov/Documents/GB/C#2/dz/1312/z41/obj/Debug/net7.0/ref/z41.dll
